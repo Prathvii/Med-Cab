@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MedCab</string>
+    <string name="sign_up"><u>Sign Up</u></string>
+    <string name="choose_location">Choose Location</string>
+    <string name="make_request">Choose Location</string>
+    <string name="choose_image"><u>Choose Image</u></string>
+    <string name="select">Select BloodGroup</string>
+</resources>
